@@ -1,4 +1,4 @@
-# 🤖 TapriBot – AI Discord Bot (LLaMA3)
+# 🤖 ChaiBot – AI Discord Bot (LLaMA3)
 
 TapriBot is an AI-powered Discord chatbot built using a local LLaMA3 model (Ollama).
 It responds like a chill tapri friend using Hinglish, with short, fun, and context-aware replies.
